@@ -24,6 +24,24 @@ Jeejal Production Company is at the forefront of music production, curating unpa
         </div>
         <div className="py-8 flex flex-wrap md:flex-nowrap">
           <div className="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
+            <span className="font-semibold title-font text-gray-700">Production</span>
+          
+          </div>
+          <div className="md:flex-grow">
+            <h2 className="text-2xl font-medium text-gray-900 title-font mb-2">Post Production</h2>
+            <p className="leading-relaxed">Jeejal Production Company pioneers in post production, capturing moments with cinematic finesse. Leveraging state-of-the-art technology and a keen eye for detail, we transform visions into visually compelling narratives. With Jeejal, every frame is a testament to our dedication, setting the gold standard in the world of video production.</p>
+            <a className="text-indigo-500 inline-flex items-center mt-4">Learn More
+              <svg className="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2} fill="none" strokeLinecap="round" strokeLinejoin="round">
+                <path d="M5 12h14" />
+                <path d="M12 5l7 7-7 7" />
+              </svg>
+            </a>
+          </div>
+        </div>
+
+
+        <div className="py-8 flex flex-wrap md:flex-nowrap">
+          <div className="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
             <span className="font-semibold title-font text-gray-700">Video</span>
           
           </div>
@@ -38,6 +56,9 @@ Jeejal Production Company is at the forefront of music production, curating unpa
             </a>
           </div>
         </div>
+
+
+
         <div className="py-8 flex flex-wrap md:flex-nowrap">
           <div className="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
             <span className="font-semibold title-font text-gray-700">commercials</span>

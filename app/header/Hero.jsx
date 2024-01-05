@@ -5,7 +5,7 @@ function Hero() {
   return (
     <div className="relative bg-gray-900 text-white overflow-hidden">
     <Image 
-        src="/Heero.svg"
+        src="/herobanner1.svg"
         alt="Description of Image"
         width={1600}      
         height={0}         

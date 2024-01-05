@@ -9,7 +9,7 @@ function page() {
     <div>
     <div className="relative text-white overflow-hidden">
     <Image 
-        src="/about.svg"
+        src="/herobannerservices.svg"
         alt="Description of Image"
         width={1600}      
         height={0}         
@@ -20,8 +20,11 @@ function page() {
         <div className='text-center md:m-5'>
   <h1 className='md:text-5xl text-xl m-5 font-bold text-red-400'>Our Services</h1>
   <p className='md:px-64 mt-2 px-4 font-semibold'>
-Jeejal Studio specializes in producing music, movies, and Islamic content, including nohas and naats.
- With a passion for quality, they craft soulful melodies and cinematic experiences that resonate deeply with audiences worldwide.</p>
+
+  Jeejal Studio specializes in producing music, movies, and Islamic content, including nohas and naats, 3D Commercials
+video editing and motion graphics With a passion for quality, they craft soulful melodies and cinematic experiences that resonate deeply with audiences worldwide
+
+ </p>
 </div>
 
 <div>
