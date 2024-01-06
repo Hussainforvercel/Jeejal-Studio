@@ -16,7 +16,7 @@ Jeejal Studio specializes in producing music, movies, and Islamic content, inclu
  With a passion for quality, they craft soulful melodies and cinematic experiences that resonate deeply with audiences worldwide.</p>
 </div>
 
-    <div  className='grid grid-cols-1 md:grid-cols-3  sm:grid-cols-2 md:m-10 m-10 items-center justify-evenly'  style={{ gap: '1rem' }} >
+    <div  className='grid grid-cols-1 md:grid-cols-3  sm:grid-cols-2 md:m-24 m-10 items-center justify-evenly'  style={{ gap: '1rem' }} >
     <div className="max-w-sm bg-white border shadow-xl border-gray-200 rounded-lg  hover:transation-all duration-300 delay-75 hover:translate-x-6 dark:bg-gray-800 dark:border-gray-700">
     <div className="p-5">
       <a href="#">

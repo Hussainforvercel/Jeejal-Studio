@@ -12,7 +12,7 @@ function Footer() {
         src="/jeejalmain.png"
         alt="Description of Image"
         width={250}         
-        height={100}         
+        height={100}     
       />
 
 <Image 
@@ -42,7 +42,7 @@ function Footer() {
             <h2 className="mb-6 text-sm font-semibold text-white uppercase dark:text-white">Resources</h2>
             <ul className="text-white dark:text-gray-400 font-medium">
               <li className="mb-4">
-                <a href="#" className="hover:underline">Jeejal Studio</a>
+                <a href="https://www.youtube.com/@jeejalstudio" className="hover:underline">Jeejal Studio</a>
               </li>
               <li>
                 <a href="#" className="hover:underline">Music</a>
@@ -64,10 +64,10 @@ function Footer() {
             <h2 className="mb-6 text-sm font-semibold text-white uppercase dark:text-white">Legal</h2>
             <ul className="text-white dark:text-gray-400 font-medium">
               <li className="mb-4">
-                <a href="#" className="hover:underline">Privacy Policy</a>
+                <a href="/privacy" className="hover:underline">Privacy Policy</a>
               </li>
               <li>
-                <a href="#" className="hover:underline">Terms &amp; Conditions</a>
+                <a href="/terms" className="hover:underline">Terms &amp; Conditions</a>
               </li>
             </ul>
           </div>
@@ -133,7 +133,7 @@ function Footer() {
  <span className="sr-only">Location</span>
   </a>
 
-          <a href="Jeejalstudio786@gmail.com" className="text-gray-500 hover:text-gray-900 dark:hover:text-white ms-5">
+          <a href="mailto:Jeejalstudio786@gmail.com" className="text-gray-500 hover:text-gray-900 dark:hover:text-white ms-5">
           <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512" className='fill-current text-gray-500'>
     <path d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4L236.8 313.6c11.4 8.5 27 8.5 38.4 0L492.8 150.4c12.1-9.1 19.2-23.3 19.2-38.4c0-26.5-21.5-48-48-48H48zM0 176V384c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V176L294.4 339.2c-22.8 17.1-54 17.1-76.8 0L0 176z" fill="text-gray-500"/>
 </svg>
